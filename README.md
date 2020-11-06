@@ -15,6 +15,6 @@ This dataset provided information on the number of crimes in each neighborhood. 
 
 ## Summary
 ### What is the best Pittsburgh neighborhood? 
-Through our findings, we scored each Pittsburgh neighborhood based off the data collected in each data set. By adminisitering each neighborhood with its percentage score scaled off of the highest acheiver in each data set (most facilites, most playgrounds, least crime rate),
+Through our findings, we scored each Pittsburgh neighborhood based off the data collected in each data set. By adminisitering each neighborhood with its percentage score scaled off of the highest acheiver in each data set (most facilites, most playgrounds, highest safety rate),
 we found that **New Homestead** had the highest cumulative score thus recieving the title of *best Pittsburgh neighborhood*. 
 
