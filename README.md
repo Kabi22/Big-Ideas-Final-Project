@@ -10,8 +10,8 @@ This dataset provided by WPRDC displayed the number of city facilities each neig
 a neighborhood had, the better it was. 
 ### Playgrounds
 Description
-### Crime Rate
-Description
+### [Crime Rate](https://data.wprdc.org/dataset/police-incident-blotter/resource/1797ead8-8262-41cc-9099-cbc8a161924b)
+This dataset provided information on the number of crimes in each neighborhood. When deciding metrics, we considered the highest safety rate, i.e. lowest crime rate, to be the best neighborhood. 
 
 ## Summary
 ### What is the best Pittsburgh neighborhood? 
